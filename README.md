@@ -1,3 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodinopps&layout=compact&theme=holi)](https://github.com/rodinopps/github-readme-stats)
-
-![Codewars](https://www.codewars.com/users/rodinopps/badges/large)
+![rodinopps's Stats](https://github-readme-stats.vercel.app/api?username=rodinopps&theme=vue-github_dark_icons=true&hide_border=true&count_private=true)
