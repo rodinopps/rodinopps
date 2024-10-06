@@ -2,3 +2,4 @@
 
 01110010 01101111 01110010 0110111
 
+Computer Science student. Always learning!
